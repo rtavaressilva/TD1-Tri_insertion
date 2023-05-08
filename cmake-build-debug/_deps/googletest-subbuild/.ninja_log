@@ -1,0 +1,21 @@
+# ninja log v5
+706	716	1683433358072782664	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	d549c67a8dc30adf
+0	10	1683433357366900281	/Users/rtavaressilva/CLionProjects/TD1-Tri_insertion/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	eabb0343deedecbd
+0	10	1683433357366900281	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	eabb0343deedecbd
+667	677	1683433358033892642	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	8fb0a63defc78855
+657	667	1683433358024144668	/Users/rtavaressilva/CLionProjects/TD1-Tri_insertion/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	e7d02e4d1a022a9f
+696	706	1683433358063114647	/Users/rtavaressilva/CLionProjects/TD1-Tri_insertion/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	bf5cba1501c3ce8e
+10	657	1683433358014056866	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	c58edd88594b385f
+716	728	1683433358085510383	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	3c5e65a6938232e9
+657	667	1683433358024144668	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	e7d02e4d1a022a9f
+687	696	1683433358053321632	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	2288c81072b740
+677	687	1683433358043672115	/Users/rtavaressilva/CLionProjects/TD1-Tri_insertion/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	92de32483252414a
+716	728	1683433358085510383	CMakeFiles/googletest-populate-complete	3c5e65a6938232e9
+687	696	1683433358053321632	/Users/rtavaressilva/CLionProjects/TD1-Tri_insertion/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	2288c81072b740
+667	677	1683433358033892642	/Users/rtavaressilva/CLionProjects/TD1-Tri_insertion/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	8fb0a63defc78855
+10	657	1683433358014056866	/Users/rtavaressilva/CLionProjects/TD1-Tri_insertion/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	c58edd88594b385f
+696	706	1683433358063114647	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	bf5cba1501c3ce8e
+706	716	1683433358072782664	/Users/rtavaressilva/CLionProjects/TD1-Tri_insertion/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	d549c67a8dc30adf
+716	728	1683433358085510383	/Users/rtavaressilva/CLionProjects/TD1-Tri_insertion/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	3c5e65a6938232e9
+677	687	1683433358043672115	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	92de32483252414a
+716	728	1683433358085510383	/Users/rtavaressilva/CLionProjects/TD1-Tri_insertion/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	3c5e65a6938232e9

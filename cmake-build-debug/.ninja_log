@@ -1,0 +1,17 @@
+# ninja log v5
+32	283	1683436150526072597	test/test_tri_insertion.cpp	268f221e4c264ff4
+32	283	1683436150526072597	test/test_tri_insertion.cpp[1]_tests.cmake	268f221e4c264ff4
+6	889	1683435450123656209	_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o	b7123b78ff55d7c7
+7	497	1683435449730853633	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	9152694fd7e85dc9
+32	75	1683436150318034234	TD1_Tri_insertion	ad6ead864012f34e
+6	28	1683436139115877000	lib/libgmock_maind.a	e5d12f9c1e628762
+0	327	1683430724177941683	CMakeFiles/TD1_Tri_insertion.dir/main.cpp.o	e2bebbf657239206
+6	585	1683435449820797596	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o	90ac399ada6b7f1
+32	283	1683436150526072597	/Users/rtavaressilva/CLionProjects/TD1-Tri_insertion/cmake-build-debug/test/test_tri_insertion.cpp[1]_tests.cmake	268f221e4c264ff4
+6	28	1683436139115877000	lib/libgtest_maind.a	c2fd81b0643c4268
+3	32	1683436150274807444	CMakeFiles/TD1_Tri_insertion.dir/test/test_tri_insertion.cpp.o	b5028240218a28f5
+2	26	1683435987871634000	lib/libgmockd.a	3d1925cbcf3aac9d
+9	129	1683435976451846000	lib/libgtestd.a	8388de79ef25e0aa
+3	331	1683514247668108171	test/CMakeFiles/test_tri_insertion.cpp.dir/test_tri_insertion.cpp.o	fdf35d3d59d2d042
+7	1366	1683435450598987111	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	2278f8bbe5f8d8de
+0	177	1683514472373890828	build.ninja	782c8102598e7cea

@@ -1,0 +1,5 @@
+if(EXISTS "/Users/rtavaressilva/CLionProjects/TD1-Tri_insertion/cmake-build-debug/test/test_tri_insertion.cpp[1]_tests.cmake")
+  include("/Users/rtavaressilva/CLionProjects/TD1-Tri_insertion/cmake-build-debug/test/test_tri_insertion.cpp[1]_tests.cmake")
+else()
+  add_test(test_tri_insertion.cpp_NOT_BUILT test_tri_insertion.cpp_NOT_BUILT)
+endif()
